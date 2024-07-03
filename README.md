@@ -1,4 +1,4 @@
-👋 Hi, I'm *Srish*
+**👋 Hi, I'm *Srish***<br/>
 🔭 Business Analyst sharing my journey and learnings<br/>
 🎓 Currently studying Business Analytics at Cambrian College<br/>
 💼 Work with [SQL](https://app.dataquest.io/view_cert/7DG82O8JNHU03RVQKJLL), Excel, Power BI<br/>
